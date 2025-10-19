@@ -53,7 +53,7 @@ int main() {
       ascii_frame += "\n";
     }
 
-    system("clear"); // to clear the console
+    system("clear"); 
     cout << ascii_frame;
     std::this_thread::sleep_for(std::chrono::milliseconds(frame_duration_ms));
   }
