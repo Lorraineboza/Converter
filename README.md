@@ -2,8 +2,9 @@
 
 This repository contains a C++ implementation of a real-time video-to-ASCII converter. It takes input from a webcam or video file and generates an ASCII art representation of the video content. The project uses OpenCV library to handle video input and processing.
 
+## Demo Video
 
-<video src="https://github.com/Lorraineboza/Converter/blob/db7a782bc42d1d820b3f8ff0a1ca6e7e679cd3c9/1763247751070425.mp4" controls width="640" height="360"></video>
+[![Demo Video](https://img.shields.io/badge/View-Demo_Video-blue)](https://github.com/Lorraineboza/Converter/blob/db7a782bc42d1d820b3f8ff0a1ca6e7e679cd3c9/1763247751070425.mp4)
 
 ## Features
 
